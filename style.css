@@ -1,0 +1,63 @@
+.navbar-custom {
+    position: absolute;
+    width: 100%;
+    top: 0;
+}
+.navbar a {
+    color: white;
+    font-weight: bold;
+}
+.nav li a:hover {
+    background: black
+    
+}
+header{
+    height: 740px;
+    color: white;
+    padding: 150px 0;
+}
+header h1 {
+    font-size: 50px;
+    text-shadow: 3px 3px 2px black;
+    
+}
+header p {
+    font-size: 20px;
+    text-shadow: 3px 3px 2px black;
+}
+.block a {
+    font-size: 20px;
+    margin: 20px 0;
+    border-top: 1px solid gray;
+    padding: 5px 0;
+    
+}
+.block-b {
+    font-size: 20px;
+    border-bottom: 1px solid gray;
+    padding: 5px 0;
+    background: #f1f1f1;
+}
+.footer{
+    
+    background: gray;
+    width: 100%;
+    color: white;
+     font-weight: bold;
+    padding: 20px 0;
+}
+.thumbnail img{
+    height: 250px;
+    width: 550px;
+}
+.page-header {
+    width: 10px;
+    
+    text-align: center;
+    font-size: bold;
+    color: black;
+}
+.about para {
+	font-size: 20px;
+	line-height: 30px;
+}
